@@ -1,0 +1,1 @@
+console.log("This is Console Log your partner!");
